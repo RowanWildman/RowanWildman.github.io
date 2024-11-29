@@ -61,6 +61,12 @@
     background: #ddd;
     margin-top: 20px;
   }
+
+  .navbar a{
+    display: flex;
+    /* align-items: center; */
+    justify-content: space-between;
+  }
   
   /* Footer */
   .footer {
